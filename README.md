@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **somai.mahmoud096@gmail.com**
 
-- ⚡ Certifications **Python Certified Associate in Programming**
-                     ** One Million Arab Coders**
+- ⚡ Certifications **Python Certified Associate in Programming** **One Million Arab Coders**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
