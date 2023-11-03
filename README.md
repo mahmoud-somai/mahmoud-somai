@@ -21,4 +21,8 @@
 <h3 align="left">Software Development Tools:</h3>
 <p align="left">
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/fr-fr/pycharm" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
+<a href="https://eclipseide.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1900px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a> 
 </p>
