@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Somai</h1>
-<h3 align="center">a dedicated software engineer. This repository serves as a portfolio where I share my skills, projects, and accomplishments in the field of software engineering.</h3>
+<h3 align="center">A dedicated software engineer. This repository serves as a portfolio where I share my skills, projects, and accomplishments in the field of software engineering.</h3>
 
 - 🔭 I'm a software engineer **with a passion for creating efficient, scalable, and elegant solutions to complex problems. With a strong background in programming and problem-solving, I constantly strive to improve and learn.**
 
@@ -8,6 +8,7 @@
 - 📫 How to reach me **somai.mahmoud096@gmail.com**
 
 - ⚡ Certifications **Python Certified Associate in Programming**
+                     ** One Million Arab Coders**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
